@@ -2,7 +2,7 @@ package com.company;
 
 public class Person {
 
-//Method Overloading:-
+//Method Overloading
 
     void displayAge(){
         System.out.println("My age is 20");
