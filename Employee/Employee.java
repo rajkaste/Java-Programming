@@ -8,11 +8,11 @@ public class Employee {
         this.basicsalary = basicsalary;
     }
 
-    public void getGrosssalary() {
+    public float getGrosssalary() {
         float DA,HRA;
         DA = 40 * basicsalary /100;
         HRA = 20 * basicsalary /100;
         grosssalary = basicsalary + DA + HRA;
+        return grosssalary;
     }
-
 }
