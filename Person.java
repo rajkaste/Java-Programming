@@ -2,7 +2,8 @@ package com.company;
 
 public class Person {
 
-//Method Overloading:-
+
+//Method Overloading
 //If a class has multiple methods having same name but different in parameters, it is known as Method Overloading.
 
     void displayAge(){
